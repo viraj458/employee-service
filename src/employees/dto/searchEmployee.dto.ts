@@ -1,4 +1,4 @@
-import { EmployeeStatus } from '../model/employees.model';
+import { EmployeeStatus } from '../enum/employees.enum';
 import { IsIn } from 'class-validator';
 
 export class SearchEmployeeDto {
